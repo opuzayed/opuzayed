@@ -37,7 +37,7 @@
    
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zayedopu4933@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
+<a target="blank" href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zayedopu4933@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
 <a href = "https://www.linkedin.com/in/zayed-hossain/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
 </p>
          
