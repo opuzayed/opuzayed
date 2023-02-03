@@ -47,14 +47,16 @@
  - 👯 I’m looking to collaborate on Remote Job and office job
  - 📫 How to reach me [opuzayed4933@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zayedopu4933@gmail.com)
    </br>
-<a align="right"  href="https://app.daily.dev/opuzayed"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
- width="370" height="460"  alt="Zayed Opu's Dev Card"/> </a>
+
+   
+   <a href="https://app.daily.dev/opuzayed"><img src="https://api.daily.dev/devcards/17b8e4d08f4b4f67b29f9868eb5e4392.png?r=sbo" width="400" alt="zayed hossain's Dev Card"/></a>
+   
 <a align="left" href="https://github.com/opuzayed/github-readme-stats"><img alt="opuzayed's Github Status" src="https://github-readme-stats.vercel.app/api?username=opuzayed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="210"/></a> 
 <a align="left" href="https://github.com/opuzayed/github-readme-stats"><img alt="opuzayed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opuzayed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
 <a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img align="left"  src="https://komarev.com/ghpvc/?username=opuzayed"></a>  
 <a align="right" href="https://github.com/opuzayed?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/opuzayed?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
-<a href="https://github.com/opuzayed/github-readme-activity-graph"><img alt="Asraful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=opuzayed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/opuzayed/github-readme-activity-graph"><img alt="Zayed Opu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=opuzayed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
    <h5 align="left"> Views and Followers </h5>
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
