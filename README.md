@@ -45,7 +45,7 @@
  
  - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
  - 👯 I’m looking to collaborate on Remote Job and office job
- - 📫 How to reach me [opuzayed4933@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zayedopu4933@gmail.com)
+ - 📫 How to reach me [zayedopu4933@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zayedopu4933@gmail.com)
    </br>
 
    
