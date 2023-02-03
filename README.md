@@ -5,13 +5,13 @@
    </strong>  <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1ZefEwPJaRxSq2nNKnDWg_lDoq3NeHc0F/view" target="_blank" rel="noopener noreferrer" >Resume</a></strong> 
 
 </h5>
-<h2 align="center"><img  alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="300" /><h3>
+<h4 align="center"><img  alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="300" /><h3>
    <h2 align="left">I am Zayed Hossain, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of JavaScript, React.js, Node.js, MongoDB and Express.js . Now I am trying 
    to learn more technologies and tools. So far
    I have finished some projects using React-js,
    Node-js, MongoDB, Firebase and many more. 
-</h2> 
+</h4> 
 <br/> 
 <h4><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h4>
 <p align="left"> 
