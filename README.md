@@ -37,11 +37,8 @@
    
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
-<a href = "https://www.linkedin.com/in/asraful196/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
-<a href = "https://web.facebook.com/sunnyashraf12"><img width="48" height="48" src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
-<a href = "https://www.instagram.com/sunnyashraf12/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
-<a href = ""><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
+<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zayedopu4933@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
+<a href = "https://www.linkedin.com/in/zayed-hossain/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
 </p>
          
  <h3> 🙋‍♂️ About Me </h3>
