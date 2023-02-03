@@ -49,9 +49,9 @@
    </br>
 
    
-   <a href="https://app.daily.dev/opuzayed"><img src="https://api.daily.dev/devcards/17b8e4d08f4b4f67b29f9868eb5e4392.png?r=sbo" width="400" alt="zayed hossain's Dev Card"/></a>
+   <a align="right" href="https://app.daily.dev/opuzayed"><img align="right" src="https://api.daily.dev/devcards/17b8e4d08f4b4f67b29f9868eb5e4392.png?r=sbo"  width="370" height="460" alt="zayed hossain's Dev Card"/></a>
    
-<a align="left" href="https://github.com/opuzayed/github-readme-stats"><img alt="opuzayed's Github Status" src="https://github-readme-stats.vercel.app/api?username=opuzayed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="210"/></a> 
+<a align="left" href="https://github.com/opuzayed/github-readme-stats"><img  alt="opuzayed's Github Status" src="https://github-readme-stats.vercel.app/api?username=opuzayed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="210"/></a> 
 <a align="left" href="https://github.com/opuzayed/github-readme-stats"><img alt="opuzayed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opuzayed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
 <a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img align="left"  src="https://komarev.com/ghpvc/?username=opuzayed"></a>  
