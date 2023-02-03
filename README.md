@@ -48,8 +48,7 @@
  
  - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
  - 👯 I’m looking to collaborate on Remote Job and office job
- - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
- - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
+ - 📫 How to reach me [zayedopu4933@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zayedopu4933@gmail.com)
    </br>
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
  width="370" height="460"  alt="Asraful's Dev Card"/> </a>
