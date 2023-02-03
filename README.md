@@ -7,8 +7,7 @@
 </h5>
 <h2 align="center"><img  alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="300" /><h3>
    <h2 align="left">I am Zayed Hossain, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
-   lives of those around me. I have Solid working knowledge of MongoDB,
-   Express.js, React.js and Node.js. Now I am trying 
+   lives of those around me. I have Solid working knowledge of JavaScript, React.js, Node.js, MongoDB and Express.js . Now I am trying 
    to learn more technologies and tools. So far
    I have finished some projects using React-js,
    Node-js, MongoDB, Firebase and many more. 
