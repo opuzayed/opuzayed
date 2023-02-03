@@ -5,8 +5,8 @@
    </strong>  <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1ZefEwPJaRxSq2nNKnDWg_lDoq3NeHc0F/view" target="_blank" rel="noopener noreferrer" >Resume</a></strong> 
 
 </h5>
-<h5 align="center"><img  alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="300" /><h3>
-   <h2 align="left">I am Zayed Hossain, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
+<h3 align="center"><img  alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="300" /><h3>
+   <h5 align="left">I am Zayed Hossain, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of JavaScript, React.js, Node.js, MongoDB and Express.js . Now I am trying 
    to learn more technologies and tools. So far
    I have finished some projects using React-js,
