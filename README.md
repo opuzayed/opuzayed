@@ -2,12 +2,10 @@
 <h5>
    <strong align="left">
 <!--       <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a> -->
-   </strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1ZefEwPJaRxSq2nNKnDWg_lDoq3NeHc0F/view" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  ||
-   
-<!--    <strong align="left"> <a  align="center" href="https://gitlab.com/asraful1966" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong>  -->
+   </strong>  <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1ZefEwPJaRxSq2nNKnDWg_lDoq3NeHc0F/view" target="_blank" rel="noopener noreferrer" >Resume</a></strong> 
 
 </h5>
-<h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
+<h2 align="center"><img  alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="300" /><h3>
    <h2 align="left">I am Zayed Hossain, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of MongoDB,
    Express.js, React.js and Node.js. Now I am trying 
