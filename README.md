@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+Zayed+Hossain;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg) </br>
 <h5>
-   <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/118vIxEeBytjlX8ibvT3Hp_2R8biGek_s/view?usp=sharing" >Resume </a></strong> 
+   <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/16GHswPR3dL-f39uBkiDHGVFWqiM0d-Tp/view?usp=drive_link" >Resume </a></strong> 
    ||   <strong align="left">
  <a align="center" href="https://zayed-s-portfolio.vercel.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a>
    </strong>
